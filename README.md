@@ -10,12 +10,41 @@ I consider myself a curious, responsible, and proactive person, always seeking t
 
 ## 🛠️ Tech Stack & Tools  
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java, Python (basic).  
-- **Frontend:** React, Angular, HTML, CSS, Tailwind CSS.  
-- **Backend:** Node.js + Express, TypeORM.  
-- **Databases:** PostgreSQL, MySQL, SQL Server (basic), Supabase, Firebase.  
-- **DevOps & Tools:** Docker, Git/GitHub, Postman, Jira.  
-- **Others:** PHP (basic), Agile methodologies (Scrum).  
+**Languages:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>  
+
+**Frontend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30"/>  
+
+**Backend:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> 
+<img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" width="30" height="30"/> 
+<img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="30" height="30" style="vertical-align: middle;"/> 
+<img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" width="30" height="30"/> 
+ 
+
+**Databases:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> 
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="30" height="30"/> 
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/>  
+
+**DevOps & Tools:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="30" height="30"/>  
+
+**Others:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>  
 
 ---
 
@@ -30,3 +59,9 @@ I consider myself a curious, responsible, and proactive person, always seeking t
 - Spanish (native).  
 - English (intermediate).  
 
+---
+
+## 📊 GitHub Stats  
+
+![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilo-ASC&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-ASC&layout=compact&theme=tokyonight)  
