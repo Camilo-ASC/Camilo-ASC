@@ -66,6 +66,7 @@ I consider myself a curious, responsible, and proactive person, always seeking t
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camilo-ASC&show_icons=true&theme=tokyonight" alt="Camilo's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-ASC&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Camilo-ASC&show_icons=true&theme=tokyonight&hide_border=true" alt="Camilo's GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Camilo-ASC&theme=tokyonight&hide_border=true" alt="Camilo's streak stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-ASC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
+</div> 
