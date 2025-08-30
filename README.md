@@ -63,7 +63,11 @@ I consider myself a curious, responsible, and proactive person, always seeking t
 
 ---
 
-## 📊 GitHub Stats  
+<div align="center">
+
+  ## 📊 GitHub Stats  
+
+</div>  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Camilo-ASC&show_icons=true&theme=tokyonight&hide_border=true" alt="Camilo's GitHub stats" height="160"/>
