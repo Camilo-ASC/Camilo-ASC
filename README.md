@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Fullstack Web Developer in training | Systems Engineering Student</h3>  
 
 <p align="center">
-Hi there! I'm <b>Camilo</b>, a 22-year-old Systems Engineering student.  
+Hi there! I'm <b>Camilo</b>, a Systems Engineering student.  
 I’m passionate about <b>web development</b> (both backend and frontend), and I’m also interested in <b>mobile development</b>, which I plan to explore further.  
 I consider myself a curious, responsible, and proactive person, always seeking to learn new technologies and improve my skills in real-world projects.  
 </p>  
