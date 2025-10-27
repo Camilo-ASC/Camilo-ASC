@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Camilo Andrés Sehuanes Contreras</h1>  
 
-<h3 align="center">🚀 Fullstack Web Developer in training | Systems Engineering Student</h3>  
+<h3 align="center">🚀 Fullstack Web Developer | Systems Engineering Student</h3>  
 
 <p align="center">
 Hi there! I'm <b>Camilo</b>, a Systems Engineering student.  
