@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Camilo Andrés Sehuanes Contreras</h1>  
 
-<h3 align="center">🚀 Fullstack Web Developer | Systems Engineering Student</h3>  
+<h3 align="center">🚀 Web Developer | Systems Engineering Student</h3>  
 
 <p align="center">
 Hi there! I'm <b>Camilo</b>, a Systems Engineering student.  
@@ -72,15 +72,3 @@ I consider myself a curious, responsible, and proactive person, always seeking t
 - English (intermediate).  
 
 ---
-
-<div align="center">
-
-  ## 📊 GitHub Stats  
-
-</div>  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camilo-ASC&show_icons=true&theme=tokyonight&hide_border=true" alt="Camilo's GitHub stats" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-ASC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
-</div> 
