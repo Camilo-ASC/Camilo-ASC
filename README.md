@@ -57,18 +57,3 @@ I consider myself a curious, responsible, and proactive person, always seeking t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="30" height="30"/>
 </p>  
-
----
-
-## 🌱 Currently Learning  
-- React + Tailwind CSS for modern responsive UIs.  
-- Clean backend architecture with Node.js + TypeORM.  
-- Containerization & deployment with Docker.  
-
----
-
-## 🌍 Languages  
-- Spanish (native).  
-- English (intermediate).  
-
----
