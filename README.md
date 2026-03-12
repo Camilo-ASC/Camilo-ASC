@@ -57,3 +57,15 @@ I consider myself a curious, responsible, and proactive person, always seeking t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="30" height="30"/>
 </p>  
+
+---
+
+## GitHub Stats  
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Camilo-ASC&show_icons=true&theme=dark&hide_border=true&hide=issues,prs&include_all_commits=true" 
+     alt="Camilo's GitHub stats" 
+     height="115"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-ASC&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="160"/>
+</div> 
